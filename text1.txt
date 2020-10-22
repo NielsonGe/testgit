@@ -1,0 +1,3 @@
+abc
+https://[username]:[passwrod]@[server adress]
+https://[access token]@[server adress]
